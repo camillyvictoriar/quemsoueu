@@ -1,4 +1,3 @@
-Aqui está um exemplo de README para um projeto simples de uma página web em HTML e CSS:
 
 ---
 
